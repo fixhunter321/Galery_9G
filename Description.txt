@@ -1,0 +1,29 @@
+- website ini dibuat untuk pagelaran 9G -
+
+1. website galery :
+~ website yang menampilkan 20 karya terbaik disertai foto karya dan 
+nama pembuatnya.
+style :
+ background > gradient light green(opacity 60-70%) to white  (opacity 78-90%) 180deg
+ box > dibuat dengan style glassmorphsm dengan border 1 px solid white, boredr :15px.
+ img > diletakan di sebelah kiri teks
+ box text > glassmorphsm opacity 50% dgn sedikit border light green
+ jarak elemen ke layar : kanan[30px] kiri[12px]
+ FULL RESPONSIVE FOR ALL DEVICE
+
+ 2. Absensi Kehadiran
+ teknologi yang digunakan :
+ html,css,Js{react atau next.js},Phyton{tools pengolah data dan list}
+ background: cream opacity 90% and white opacity89%
+ 
+
+------------------------------------------------------------
+-------------------- |
+                     |  ______________________________
+                     |  ______________________________
+                     |  ______________________________
+ picture             |  ______________________________ 
+                     |  ______________________________
+                     |       pembuat karya
+----------------------                              
+------------------------------------------------------------
